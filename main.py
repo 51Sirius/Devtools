@@ -25,6 +25,8 @@ class Figure:
             return area_of_triangle(self.parm[0], self.parm[1])
         elif self.figure == "circle":
             return area_of_circle(self.parm[0])
+        elif self.figure == "rectangle":
+            return area_of_rectangle(self.parm[0], self.parm[1])
 
 
 n, m = map(int, input("Введите числа для подсчета площади: ").split())
