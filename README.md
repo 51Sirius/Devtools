@@ -3,7 +3,7 @@
 ## Git commands
 
 1. git clone || Клонирует репозиторий
-   ![Some](https://github.com/51Sirius/Devtools/blob/develop/clone.png)
+   ![Some](https://github.com/51Sirius/Devtools/blob/develop/images/clone.png)
 2. git branch || Показывает нынешние ветки, также дает выполнить действия с ними.
    ![Some](https://github.com/51Sirius/Devtools/blob/develop/images/branch.png)
 3. git checkout || переключает с ветки на ветку                                   
@@ -18,9 +18,9 @@
    ![Some](https://github.com/51Sirius/Devtools/blob/develop/images/status.png)                 
 8. git rm || обратная add
    ![Some](https://github.com/51Sirius/Devtools/blob/develop/images/rm.png)
-9. git push || заливаем обнову
+9. git push || заливаем обнову                                           
    ![Some](https://github.com/51Sirius/Devtools/blob/develop/images/push.png)
-10. git pull || скачиваем обнову
+10. git pull || скачиваем обнову                      
     ![Some](https://github.com/51Sirius/Devtools/blob/develop/images/pull.png)
-11. git merge || сливаем две ветки
+11. git merge || сливаем две ветки                             
 ![Some](https://github.com/51Sirius/Devtools/blob/develop/images/merge.png)
