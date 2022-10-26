@@ -15,5 +15,17 @@ def area_of_rectangle(w, h):
     return w * h
 
 
+class Figure:
+    def __init__(self, name, parm):
+        self.figure = name
+        self.parm = parm
+
+    def get_area(self):
+        if self.figure == "triangle":
+            return area_of_triangle(self.parm[0], self.parm[1])
+        elif self.figure == "circle":
+            return area_of_circle(self.parm[0])
+
+
 n, m = map(int, input("Введите числа для подсчета площади: ").split())
 print(area_of_triangle(n, m))
