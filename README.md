@@ -3,7 +3,7 @@
 ## Git commands
 
 1. git clone || Клонирует репозиторий
-   ![Some](https://github.com/51Sirius/Devtools/raw/tree/develop/clone.png)
+   ![Some](https://github.com/51Sirius/Devtools/blob/develop/clone.png)
 2. git branch || Показывает нынешние ветки, также дает выполнить действия с ними.
 3. git checkout || переключает с ветки на ветку
 4. git add || добавляет файл в реестр для учета коммита
