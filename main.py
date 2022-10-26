@@ -8,7 +8,11 @@ def area_of_triangle(a, h):
 
 
 def area_of_circle(r):
-    return r**2*3.14
+    return r ** 2 * 3.14
+
+
+def area_of_rectangle(w, h):
+    return w * h
 
 
 n, m = map(int, input("Введите числа для подсчета площади: ").split())
